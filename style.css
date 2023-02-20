@@ -1,0 +1,23 @@
+body
+{
+    text-align: center;
+}
+#Apps
+{
+    background-color: lavenderblush;
+}
+h1
+{
+    font-size: 40px;
+    font-family:monospace;
+    font-weight: bold;
+    color:darkturquoise;
+}
+
+.line 
+{
+    width: 70px;
+    height: 6px;
+    background-color: darkturquoise;
+    margin: 8px auto;
+}
